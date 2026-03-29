@@ -2,7 +2,7 @@
 
 Goal - Build a modern data warehouse with mySQL, including ETL processes, data modelling and analytics.
 
-Welcome to the Data Warehouse & Analytics Portfolio! 🚀
+Welcome to the Data Warehouse & Analytics Portfolio! 
 
 This repository showcases a complete, end-to-end data solution—bridging the gap between raw data engineering and actionable business intelligence. Built to demonstrate industry-standard best practices, this project covers everything from architecting a robust data warehouse to delivering high-impact insights.
 
