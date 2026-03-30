@@ -1,4 +1,6 @@
+
 # sql_ETL_project
+
 
 Goal - Build a modern data warehouse with mySQL, including ETL processes, data modelling and analytics.
 
@@ -17,7 +19,9 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 
 **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+
 **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+
 **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
@@ -33,9 +37,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 **Specifications**
 **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+
 **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+
 **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+
 **Scope**: Focus on the latest dataset only; historization of data is not required.
+
 **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 BI: Analytics & Reporting (Data Analysis)
 
@@ -46,6 +54,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 Customer Behavior
 Product Performance
 Sales Trends
+
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
@@ -54,7 +63,12 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project involves:
 
 **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-**ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-**Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-**Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights
 
+**ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+
+**Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+
+**Analytics & Reporting**: Creating SQL-based reports 
+
+NOTE:Project credits:DataWithBaraa
+used the datasets if you want to go to the actual link of the project click here https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main
